@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npxnanbnsnfns10111100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns10111100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns10111100101" font="Open Sans" controllayout="npnxnanbsnfns10111100101" colorscheme="npxnanbnsnfns10111100101" string_table="npxnanbnsnfns10111100101" />
-    <layout name="pxabnsnfns10111100101" font="Open Sans" controllayout="pxabnsnfns10111100101" colorscheme="npxnanbnsnfns10111100101" string_table="npxnanbnsnfns10111100101" />
-    <layout name="npxnabnsnfns10111100101" font="Open Sans" controllayout="npxnabnsnfns10111100101" colorscheme="npxnanbnsnfns10111100101" string_table="npxnanbnsnfns10111100101" />
-    <layout name="npnxnanbnsnfns10111100101" font="Open Sans" controllayout="npnxnanbnsnfns10111100101" colorscheme="npxnanbnsnfns10111100101" string_table="npxnanbnsnfns10111100101" />
-    <layout name="pxabnsnfns10111100100" font="Open Sans" controllayout="pxabnsnfns10111100100" colorscheme="npxnanbnsnfns10111100101" string_table="npxnanbnsnfns10111100101" />
-    <layout name="npxnanbnsnfns10111100101" font="Open Sans" controllayout="npxnanbnsnfns10111100101" colorscheme="npxnanbnsnfns10111100101" string_table="npxnanbnsnfns10111100101" />
-    <layout name="pxnanbnsnfns10111100101" font="Open Sans" controllayout="pxnanbnsnfns10111100101" colorscheme="npxnanbnsnfns10111100101" string_table="npxnanbnsnfns10111100101" />
-    <layout name="pxnanbsnfns10111100101" font="Open Sans" controllayout="pxnanbsnfns10111100101" colorscheme="npxnanbnsnfns10111100101" string_table="npxnanbnsnfns10111100101" />
+    <layout name="npnxnanbsnfns10111100101" font="Open Sans" controllayout="npnxnanbsnfns10111100101" colorscheme="npnxnanbnsnfns10111100101" string_table="npnxnanbnsnfns10111100101" />
+    <layout name="pxabnsnfns10111100101" font="Open Sans" controllayout="pxabnsnfns10111100101" colorscheme="npnxnanbnsnfns10111100101" string_table="npnxnanbnsnfns10111100101" />
+    <layout name="npxnabnsnfns10111100101" font="Open Sans" controllayout="npxnabnsnfns10111100101" colorscheme="npnxnanbnsnfns10111100101" string_table="npnxnanbnsnfns10111100101" />
+    <layout name="npnxnanbnsnfns10111100101" font="Open Sans" controllayout="npnxnanbnsnfns10111100101" colorscheme="npnxnanbnsnfns10111100101" string_table="npnxnanbnsnfns10111100101" />
+    <layout name="pxabnsnfns10111100100" font="Open Sans" controllayout="pxabnsnfns10111100100" colorscheme="npnxnanbnsnfns10111100101" string_table="npnxnanbnsnfns10111100101" />
+    <layout name="npxnanbnsnfns10111100101" font="Open Sans" controllayout="npxnanbnsnfns10111100101" colorscheme="npnxnanbnsnfns10111100101" string_table="npnxnanbnsnfns10111100101" />
+    <layout name="pxnanbnsnfns10111100101" font="Open Sans" controllayout="pxnanbnsnfns10111100101" colorscheme="npnxnanbnsnfns10111100101" string_table="npnxnanbnsnfns10111100101" />
+    <layout name="pxnanbsnfns10111100101" font="Open Sans" controllayout="pxnanbsnfns10111100101" colorscheme="npnxnanbnsnfns10111100101" string_table="npnxnanbnsnfns10111100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -31,7 +31,7 @@
           <optionlist name="tabs">
             <listitems>
               <listitem name="outline" value="true" group="linkleft" />
-              <listitem name="resources" value="true" group="linkright" />
+              <listitem name="resources" value="true" group="linkleft" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
@@ -281,7 +281,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="npxnanbnsnfns10111100101">
+    <colorscheme name="npnxnanbnsnfns10111100101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1209,7 +1209,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="npxnanbnsnfns10111100101">
+    <string_table name="npnxnanbnsnfns10111100101">
       <string id="three_image_progress_audio">progress</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
@@ -1366,9 +1366,14 @@
   <nav_data>
     <outline>
       <links>
+        <slidelink slideid="_player.5qdNNTKiOkY" displaytext="Menu" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5qdNNTKiOkY.6azZsjafKlt" displaytext="Menu" expand="false" type="slide" />
+          </links>
+        </slidelink>
         <slidelink slideid="_player.6RJ5KLJXzNs" displaytext="Introduction" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6RJ5KLJXzNs.6CSGynEDqGv" displaytext="Defensive Driving " expand="false" type="slide" />
+            <slidelink slideid="_player.6RJ5KLJXzNs.6CSGynEDqGv" displaytext="Introduction" expand="false" type="slide" />
             <slidelink slideid="_player.6RJ5KLJXzNs.65onL15EIxK" displaytext="Road Safety in 2019" expand="false" type="slide" />
             <slidelink slideid="_player.6RJ5KLJXzNs.6CdHkLIAUkP" displaytext="Need For Defensive Driving" expand="false" type="slide" />
             <slidelink slideid="_player.6RJ5KLJXzNs.66p7XirRiT8" displaytext="Scenario on Indian Roads" expand="false" type="slide" />
@@ -1379,6 +1384,72 @@
             <slidelink slideid="_player.6RJ5KLJXzNs.5lLlP7zXWQ1" displaytext="Wearing Helmet Is Mandatory " expand="false" type="slide" />
             <slidelink slideid="_player.6RJ5KLJXzNs.5eWuQsIkUq9" displaytext="Use of Seat Belt" expand="false" type="slide" />
             <slidelink slideid="_player.6RJ5KLJXzNs.6C5HBR0uY6i" displaytext="Knowledge Check" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6gw0wS0YMcG" displaytext="Road Signs, Markings &amp;amp; Regulations" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6gw0wS0YMcG.5y9lJcnAlmo" displaytext="Road Signs, Markings &amp;amp; Regulations" expand="false" type="slide" />
+            <slidelink slideid="_player.6gw0wS0YMcG.6MMROWw6qsA" displaytext="Mandatory Documents &amp;amp; Other Emergency Aspects" expand="false" type="slide" />
+            <slidelink slideid="_player.6gw0wS0YMcG.5fvKst4lJ0U" displaytext="RRRS: Rules Of The Road Regulations " expand="false" type="slide" />
+            <slidelink slideid="_player.6gw0wS0YMcG.5Wuvo2gpV0n" displaytext="Important Rights Of Way On Road  " expand="false" type="slide" />
+            <slidelink slideid="_player.6gw0wS0YMcG.5ktVpODH8m3" displaytext="Traffic Signs &amp;amp; Traffic Lights" expand="false" type="slide" />
+            <slidelink slideid="_player.6gw0wS0YMcG.5jqwvYhMG5h" displaytext="Zebra Crossing Lines" expand="false" type="slide" />
+            <slidelink slideid="_player.6gw0wS0YMcG.5dXdQNlnLGx" displaytext="White Line" expand="false" type="slide" />
+            <slidelink slideid="_player.6gw0wS0YMcG.67QgAUkivq2" displaytext="Two Continuous Yellow Lines" expand="false" type="slide" />
+            <slidelink slideid="_player.6gw0wS0YMcG.6jzpnbzohMG" displaytext="Electronic Road Signals" expand="false" type="slide" />
+            <slidelink slideid="_player.6gw0wS0YMcG.6KjMnogE1NZ" displaytext="Emergency Vehicles And Special Vehicles" expand="false" type="slide" />
+            <slidelink slideid="_player.6gw0wS0YMcG.6HzsSONnzKc" displaytext="Knowledge Check" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6ejM1lk5y4z" displaytext="Defensive Driving Technique" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6ejM1lk5y4z.6JOsOginZwC" displaytext="Defensive Driving Technique" expand="false" type="slide" />
+            <slidelink slideid="_player.6ejM1lk5y4z.6PJeCRaveno" displaytext="Changing Lane Or Manoeuvre." expand="false" type="slide" />
+            <slidelink slideid="_player.6ejM1lk5y4z.6qwrpXoqXO7" displaytext="MSM Routine " expand="false" type="slide" />
+            <slidelink slideid="_player.6ejM1lk5y4z.6rmLrvbKQwP" displaytext="Manoeuvre comprises of 3 steps " expand="false" type="slide" />
+            <slidelink slideid="_player.6ejM1lk5y4z.6Q3Tk0pHYGo" displaytext="Lane Discipline" expand="false" type="slide" />
+            <slidelink slideid="_player.6ejM1lk5y4z.68Y2PGc3m4b" displaytext="T Junction" expand="false" type="slide" />
+            <slidelink slideid="_player.6ejM1lk5y4z.6GHRMeL02z6" displaytext="Short Cuts" expand="false" type="slide" />
+            <slidelink slideid="_player.6ejM1lk5y4z.6C6Xmz6FFpL" displaytext="Plan Well Before Overtaking" expand="false" type="slide" />
+            <slidelink slideid="_player.6ejM1lk5y4z.6kYUeLvVXqR" displaytext="Tailgating" expand="false" type="slide" />
+            <slidelink slideid="_player.6ejM1lk5y4z.6R0NTVPRPVd" displaytext="Blind Spots While Driving" expand="false" type="slide" />
+            <slidelink slideid="_player.6ejM1lk5y4z.6T6U4vHCQ8I" displaytext="Speeding is Injurious" expand="false" type="slide" />
+            <slidelink slideid="_player.6ejM1lk5y4z.6Mr1LQSDL2s" displaytext="Total Stopping Distance" expand="false" type="slide" />
+            <slidelink slideid="_player.6ejM1lk5y4z.5bX7gqB452i" displaytext="Common Causes Of 2W/4W Accidents" expand="false" type="slide" />
+            <slidelink slideid="_player.6ejM1lk5y4z.5lfYyK25PaZ" displaytext="Knowledge Check" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5pT2UOeQAEp" displaytext="Distraction while driving" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5pT2UOeQAEp.6SjaWjxUlY6" displaytext="Distraction while driving" expand="false" type="slide" />
+            <slidelink slideid="_player.5pT2UOeQAEp.61YtNhUaV81" displaytext="Varity of distracted driving factors" expand="false" type="slide" />
+            <slidelink slideid="_player.5pT2UOeQAEp.6ah5Q79QQMx" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5pT2UOeQAEp.5y0ZX1CPIUg" displaytext="How To Reduce Driving Distractions" expand="false" type="slide" />
+            <slidelink slideid="_player.5pT2UOeQAEp.6c3I4g7IeYK" displaytext="Alcohol Affects Your Body’s Motor Skills" expand="false" type="slide" />
+            <slidelink slideid="_player.5pT2UOeQAEp.5tIpqVpj4hv" displaytext="How alcohol affects driving" expand="false" type="slide" />
+            <slidelink slideid="_player.5pT2UOeQAEp.6CIScedw4Y8" displaytext="Stress Affects Driving In Following Ways" expand="false" type="slide" />
+            <slidelink slideid="_player.5pT2UOeQAEp.62xRtzWRFrj" displaytext="How To Avoid Stress While Driving" expand="false" type="slide" />
+            <slidelink slideid="_player.5pT2UOeQAEp.6feYiET1Atb" displaytext="Factors Inducing Drowsiness During Driving" expand="false" type="slide" />
+            <slidelink slideid="_player.5pT2UOeQAEp.69ZWYpmdzvz" displaytext="If You Observe Following Signs, Don’t Drive:" expand="false" type="slide" />
+            <slidelink slideid="_player.5pT2UOeQAEp.5Vklkh6ggtc" displaytext="Knowledge Check" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5qYt3QwEdir" displaytext="Driving in difficult conditions" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5qYt3QwEdir.5UoBqZN8Kj8" displaytext="Driving in difficult conditions" expand="false" type="slide" />
+            <slidelink slideid="_player.5qYt3QwEdir.5cA0LSUJp3T" displaytext="Driving Difficulties" expand="false" type="slide" />
+            <slidelink slideid="_player.5qYt3QwEdir.5ldWAGM35PV" displaytext="Night Driving Challenges" expand="false" type="slide" />
+            <slidelink slideid="_player.5qYt3QwEdir.6L78whghuRW" displaytext="Driving In Fog" expand="false" type="slide" />
+            <slidelink slideid="_player.5qYt3QwEdir.5o7tIi0CyP2" displaytext="Driving In Rains" expand="false" type="slide" />
+            <slidelink slideid="_player.5qYt3QwEdir.6gXsVb5OalJ" displaytext="City Driving" expand="false" type="slide" />
+            <slidelink slideid="_player.5qYt3QwEdir.6bPcNoyTBi9" displaytext="High Speed Express Highways" expand="false" type="slide" />
+            <slidelink slideid="_player.5qYt3QwEdir.6bPXsU0EkGj" displaytext="Sharp/Hairpin Bends On Hilly Road " expand="false" type="slide" />
+            <slidelink slideid="_player.5qYt3QwEdir.6cpV01Yn2E5" displaytext="Tips While Driving On A Hilly Road" expand="false" type="slide" />
+            <slidelink slideid="_player.5qYt3QwEdir.6E69hNDUNwx" displaytext=" Driving On Bad Road" expand="false" type="slide" />
+            <slidelink slideid="_player.5qYt3QwEdir.6GqMwhv31Vv" displaytext="What Not To Do While Parking" expand="false" type="slide" />
+            <slidelink slideid="_player.5qYt3QwEdir.5c7uRHy2iNZ" displaytext="Benefits Of Regular Vehicle Maintenance" expand="false" type="slide" />
+            <slidelink slideid="_player.5qYt3QwEdir.6nmzqQTxMdC" displaytext="Ten Commandments Of Defensive Driving" expand="false" type="slide" />
+            <slidelink slideid="_player.5qYt3QwEdir.6ABtvYhufvf" displaytext="Knowledge Check" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
