@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6hUOEg0Qk2f" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6PhkT28JiAs" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -53,13 +53,13 @@
   <organizations default="Defensive_Driving_ORG">
     <organization identifier="Defensive_Driving_ORG">
       <title>Defensive Driving</title>
-      <item identifier="_01_SCO" isvisible="true" identifierref="__6hUOEg0Qk2f_RES">
+      <item identifier="_01_SCO" isvisible="true" identifierref="__6PhkT28JiAs_RES">
         <title>Defensive Driving</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6hUOEg0Qk2f_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6PhkT28JiAs_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="story_content/6WQ1NJGdsHP_44100_56_0.mp3" />
       <file href="mobile/6d0X63DuiiD.png" />
@@ -120,6 +120,7 @@
       <file href="story_content/video_6fLThR9TOYD_18_56_320x240.mp4" />
       <file href="mobile/poster_6roiIgNUBo3_video_6fLThR9TOYD_18_56_320x240.jpg" />
       <file href="mobile/6E1fV79Qlq0.jpg" />
+      <file href="story_content/5pF0wfrA7p5_44100_56_0.mp3" />
       <file href="mobile/5wwd4XIhIw3.jpg" />
       <file href="story_content/6LPGtarFUVl_44100_56_0.mp3" />
       <file href="story_content/5qgAzMVsW4j_44100_56_0.mp3" />
@@ -146,17 +147,20 @@
       <file href="mobile/6KozFJ9pSzy.png" />
       <file href="story_content/6IEYX2Vb0DM_44100_56_0.mp3" />
       <file href="mobile/5d4oPD23vWo.png" />
-      <file href="mobile/5mmPXK2mGcW.png" />
-      <file href="mobile/6Sub9FNbrWr.png" />
-      <file href="story_content/6C9YlLoQRa8_44100_56_0.mp3" />
-      <file href="mobile/6IVBHKjmMu4.png" />
+      <file href="mobile/6Sub9FNbrWr_P_0_303_572_268.png" />
+      <file href="mobile/6oWT0ngufUr_P_0_51_257_234.png" />
+      <file href="mobile/6oWT0ngufUr_P_333_51_251_234.png" />
+      <file href="mobile/6IVBHKjmMu4_P_0_44_497_203.png" />
       <file href="story_content/67cF6d7ocCI_44100_56_0.mp3" />
-      <file href="mobile/6oWT0ngufUr_P_0_0_257_331.png" />
-      <file href="mobile/6oWT0ngufUr_P_333_0_251_331.png" />
-      <file href="mobile/6oWT0ngufUr_P_652_0_260_331.png" />
-      <file href="mobile/6oWT0ngufUr_P_974_0_285_331.png" />
-      <file href="mobile/6oWT0ngufUr_P_1307_0_299_331.png" />
+      <file href="story_content/6C9YlLoQRa8_44100_56_0.mp3" />
+      <file href="mobile/6oWT0ngufUr_P_0_0_257_286.png" />
+      <file href="mobile/6oWT0ngufUr_P_333_0_251_285.png" />
+      <file href="mobile/6oWT0ngufUr_P_652_0_260_285.png" />
+      <file href="mobile/6oWT0ngufUr_P_974_0_285_285.png" />
+      <file href="mobile/6oWT0ngufUr_P_1307_0_299_285.png" />
       <file href="mobile/6Qzan5bxaiJ.png" />
+      <file href="mobile/6IVBHKjmMu4.png" />
+      <file href="mobile/6Sub9FNbrWr.png" />
       <file href="mobile/5YPujKazzqw_P_20_20_1028_1052.png" />
       <file href="story_content/6UczJezIZRV_44100_56_0.mp3" />
       <file href="mobile/6753bINguFN.png" />
@@ -164,7 +168,7 @@
       <file href="story_content/6j4OodEEYrC_44100_56_0.mp3" />
       <file href="mobile/69SacoqLyyn.png" />
       <file href="story_content/6ndfx7YfC95_44100_56_0.mp3" />
-      <file href="mobile/6CvwGMkXt8j.png" />
+      <file href="mobile/6dNNQEvTKA9_M_1462_1462.png" />
       <file href="mobile/6pd5Kr2gqyu_X_M_320_320.png" />
       <file href="mobile/6T4lTYzHQsh_X_M_1070_1070.png" />
       <file href="mobile/5qvA4qjJCNh_X_M_738_738.png" />
@@ -180,6 +184,7 @@
       <file href="story_content/6hnVbQa2MlP_44100_56_0.mp3" />
       <file href="mobile/6Ghn7TVagUw.png" />
       <file href="mobile/6h7boXpLsXA.jpg" />
+      <file href="mobile/5v25KAUsdqh.jpg" />
       <file href="mobile/5vhPHrXHPMH.png" />
       <file href="mobile/5nCofF15AaA.png" />
       <file href="story_content/63boqEllDZo_44100_56_0.mp3" />
@@ -326,6 +331,18 @@
       <file href="mobile/txt__default_63PrLP3fFRc.png" />
       <file href="mobile/txt__default_5ntd7uG2O8w.png" />
       <file href="mobile/Shape6obZZR5Zc7x.png" />
+      <file href="mobile/Shape69ftAfxt1t7.png" />
+      <file href="mobile/Shape5nD00NCwB6L.png" />
+      <file href="mobile/Shape5VOwnDQJFbs.png" />
+      <file href="mobile/txt__default_6OR0tCsqJSN.png" />
+      <file href="mobile/txt__default_5WObl2Y9pNK.png" />
+      <file href="mobile/txt__default_6TTHmSlIEPl.png" />
+      <file href="mobile/txt__default_5vUgzMvxwBZ.png" />
+      <file href="mobile/txt__default_5d5lLVPPQrG.png" />
+      <file href="mobile/txt__default_5x4xeT2mj3D.png" />
+      <file href="mobile/txt__default_5c95OZGliUf.png" />
+      <file href="mobile/txt__default_5XRhzt0nqUA.png" />
+      <file href="mobile/Shape5apZ9mboNyo.png" />
       <file href="html5/data/css/output.min.css" />
       <file href="html5/data/js/5bAbpfCPSB4.js" />
       <file href="html5/data/js/5bX7gqB452i.js" />
@@ -336,11 +353,9 @@
       <file href="html5/data/js/5fvKst4lJ0U.js" />
       <file href="html5/data/js/5ja5aW4rAbH.js" />
       <file href="html5/data/js/5jqwvYhMG5h.js" />
-      <file href="html5/data/js/5ktVpODH8m3.js" />
       <file href="html5/data/js/5ldWAGM35PV.js" />
       <file href="html5/data/js/5lfYyK25PaZ.js" />
       <file href="html5/data/js/5lLlP7zXWQ1.js" />
-      <file href="html5/data/js/5lvCwDGiNQd.js" />
       <file href="html5/data/js/5o7tIi0CyP2.js" />
       <file href="html5/data/js/5tIpqVpj4hv.js" />
       <file href="html5/data/js/5UmrrGsN2Uh.js" />
@@ -348,6 +363,7 @@
       <file href="html5/data/js/5Vklkh6ggtc.js" />
       <file href="html5/data/js/5W11e7P0jyL.js" />
       <file href="html5/data/js/5Wuvo2gpV0n.js" />
+      <file href="html5/data/js/5XHuPh1QAyY.js" />
       <file href="html5/data/js/5y0ZX1CPIUg.js" />
       <file href="html5/data/js/5y9lJcnAlmo.js" />
       <file href="html5/data/js/5zJ8A3W3m94.js" />
@@ -357,6 +373,7 @@
       <file href="html5/data/js/61YtNhUaV81.js" />
       <file href="html5/data/js/62NURgN9NU4.js" />
       <file href="html5/data/js/62xRtzWRFrj.js" />
+      <file href="html5/data/js/65b9vUAUZSU.js" />
       <file href="html5/data/js/65cavmPU5ux.js" />
       <file href="html5/data/js/65onL15EIxK.js" />
       <file href="html5/data/js/668xVWj2ZF4.js" />
@@ -410,7 +427,6 @@
       <file href="html5/data/js/6RtF0o6gCzb.js" />
       <file href="html5/data/js/6SjaWjxUlY6.js" />
       <file href="html5/data/js/6T6U4vHCQ8I.js" />
-      <file href="html5/data/js/6V93m8YwyVN.js" />
       <file href="html5/data/js/6WWfq2kEdUg.js" />
       <file href="html5/data/js/6XzFZoVFNs8.js" />
       <file href="html5/data/js/data.js" />
