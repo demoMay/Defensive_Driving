@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6PhkT28JiAs" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6VV5nIMgD3M" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -53,13 +53,13 @@
   <organizations default="Defensive_Driving_ORG">
     <organization identifier="Defensive_Driving_ORG">
       <title>Defensive Driving</title>
-      <item identifier="_01_SCO" isvisible="true" identifierref="__6PhkT28JiAs_RES">
+      <item identifier="_01_SCO" isvisible="true" identifierref="__6VV5nIMgD3M_RES">
         <title>Defensive Driving</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6PhkT28JiAs_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6VV5nIMgD3M_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="story_content/6WQ1NJGdsHP_44100_56_0.mp3" />
       <file href="mobile/6d0X63DuiiD.png" />
@@ -152,6 +152,7 @@
       <file href="mobile/6oWT0ngufUr_P_333_51_251_234.png" />
       <file href="mobile/6IVBHKjmMu4_P_0_44_497_203.png" />
       <file href="story_content/67cF6d7ocCI_44100_56_0.mp3" />
+      <file href="story_content/62wmGSJD6uR_44100_56_0.mp3" />
       <file href="story_content/6C9YlLoQRa8_44100_56_0.mp3" />
       <file href="mobile/6oWT0ngufUr_P_0_0_257_286.png" />
       <file href="mobile/6oWT0ngufUr_P_333_0_251_285.png" />
@@ -331,9 +332,9 @@
       <file href="mobile/txt__default_63PrLP3fFRc.png" />
       <file href="mobile/txt__default_5ntd7uG2O8w.png" />
       <file href="mobile/Shape6obZZR5Zc7x.png" />
-      <file href="mobile/Shape69ftAfxt1t7.png" />
-      <file href="mobile/Shape5nD00NCwB6L.png" />
-      <file href="mobile/Shape5VOwnDQJFbs.png" />
+      <file href="mobile/Shape6OoQdYQGRYl.png" />
+      <file href="mobile/Shape6btYLZUC8aV.png" />
+      <file href="mobile/Shape6Ih1oWKvXNF.png" />
       <file href="mobile/txt__default_6OR0tCsqJSN.png" />
       <file href="mobile/txt__default_5WObl2Y9pNK.png" />
       <file href="mobile/txt__default_6TTHmSlIEPl.png" />
