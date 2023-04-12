@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6GsoDAt7aTh" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_5mxujf4Jkhq" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -7,7 +7,7 @@
       <general>
         <title>
           <langstring xml:lang="x-none">Defensive Driving 
-Training</langstring>
+Training (Menu)</langstring>
         </title>
       </general>
       <lifecycle>
@@ -52,20 +52,20 @@ Training</langstring>
     </lom>
   </metadata>
   <organizations default="Defensive_Driving_
-Training_ORG">
+Training_(Menu)_ORG">
     <organization identifier="Defensive_Driving_
-Training_ORG">
+Training_(Menu)_ORG">
       <title>Defensive Driving 
-Training</title>
-      <item identifier="Module_1_SCO" isvisible="true" identifierref="__6GsoDAt7aTh_RES">
+Training (Menu)</title>
+      <item identifier="Module_1_SCO" isvisible="true" identifierref="__5mxujf4Jkhq_RES">
         <title>Defensive Driving 
-Training</title>
+Training (Menu)</title>
         <adlcp:masteryscore>80</adlcp:masteryscore>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6GsoDAt7aTh_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__5mxujf4Jkhq_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/5ruTnQ4dB8s.png" />
       <file href="mobile/6QOueUJZNZE.png" />
