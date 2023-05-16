@@ -7,7 +7,7 @@
       <general>
         <title>
           <langstring xml:lang="x-none">Defensive Driving 
-Training (Menu)</langstring>
+Training</langstring>
         </title>
       </general>
       <lifecycle>
@@ -52,14 +52,14 @@ Training (Menu)</langstring>
     </lom>
   </metadata>
   <organizations default="Defensive_Driving_
-Training_(Menu)_ORG">
+Training_ORG">
     <organization identifier="Defensive_Driving_
-Training_(Menu)_ORG">
+Training_ORG">
       <title>Defensive Driving 
-Training (Menu)</title>
+Training</title>
       <item identifier="Module_1_SCO" isvisible="true" identifierref="__5mxujf4Jkhq_RES">
         <title>Defensive Driving 
-Training (Menu)</title>
+Training</title>
         <adlcp:masteryscore>80</adlcp:masteryscore>
       </item>
     </organization>
@@ -155,10 +155,13 @@ Training (Menu)</title>
       <file href="mobile/6NwTt4OMbsX.png" />
       <file href="story_content/60vqk9tQkzZ_44100_56_0.mp3" />
       <file href="story_content/6bM7KTpK7Yv_captions.js" />
+      <file href="mobile/5qvYpexA5Mi.png" />
+      <file href="story_content/6RlJHDsRN0E_44100_56_0.mp3" />
+      <file href="story_content/60HadbPQgSA_captions.js" />
+      <file href="mobile/6rNksKnfPpD.png" />
       <file href="mobile/5rMk1OnVyWK.png" />
       <file href="story_content/6XWHDUluQlv_44100_56_0.mp3" />
       <file href="story_content/5Z9kVGCpVFw_captions.js" />
-      <file href="mobile/6rNksKnfPpD.png" />
       <file href="story_content/6ExrbRqVUbB_44100_56_0.mp3" />
       <file href="story_content/6ciEgzN790J_captions.js" />
       <file href="story_content/5mPCXnjGTUa_44100_56_0.mp3" />
@@ -277,6 +280,7 @@ Training (Menu)</title>
       <file href="mobile/5jSbevGrTIJ.png" />
       <file href="mobile/6hdEGVJDIBP.png" />
       <file href="mobile/5hUZN8Dh6KA.png" />
+      <file href="story_content/5hYTGVJ2cd0_captions.js" />
       <file href="story_content/5yf6qzFiyNJ_44100_56_0.mp3" />
       <file href="story_content/67a5RDY8pgG_captions.js" />
       <file href="mobile/698jfGSeotA.png" />
@@ -375,6 +379,7 @@ Training (Menu)</title>
       <file href="mobile/5zigl6Ie7zz.png" />
       <file href="story_content/5nK6lgHoACZ_44100_56_0.mp3" />
       <file href="story_content/5aIKbmsAN9P_captions.js" />
+      <file href="story_content/6KofVPts2m0_captions.js" />
       <file href="story_content/6dY5cPkoJUn_44100_56_0.mp3" />
       <file href="story_content/5hFG601YChc_captions.js" />
       <file href="story_content/6elR6wQOrNc_44100_56_0.mp3" />
@@ -472,6 +477,7 @@ Training (Menu)</title>
       <file href="mobile/6TiyAwUbZ9n.png" />
       <file href="story_content/6XP65rCYFgb_44100_56_0.mp3" />
       <file href="story_content/6Oo3AZ3Xudf_captions.js" />
+      <file href="story_content/6St2S3H8Iz4_captions.js" />
       <file href="story_content/6AqkNwbL149_44100_56_0.mp3" />
       <file href="story_content/6QIpzwTr2Ho_captions.js" />
       <file href="story_content/63cLlSSalSx_44100_56_0.mp3" />
@@ -555,6 +561,7 @@ Training (Menu)</title>
       <file href="mobile/69Jg0vEf0NI.png" />
       <file href="story_content/5lgoCJxIJLI_44100_56_0.mp3" />
       <file href="story_content/6rMBdECZ4Hx_captions.js" />
+      <file href="story_content/5pjrs5lHxeT_captions.js" />
       <file href="story_content/5Yf3j2RP1mb_captions.js" />
       <file href="mobile/6RDQfJGrdyz.png" />
       <file href="story_content/667OtycntoH_44100_56_0.mp3" />
@@ -623,6 +630,7 @@ Training (Menu)</title>
       <file href="html5/data/js/5p1j3t3AMYv.js" />
       <file href="html5/data/js/5s4UjtFQXBv.js" />
       <file href="html5/data/js/5sdXszwKDsq.js" />
+      <file href="html5/data/js/5sPDGYF1uhy.js" />
       <file href="html5/data/js/5syXE2tzRxn.js" />
       <file href="html5/data/js/5tOyOwGKWsJ.js" />
       <file href="html5/data/js/5ucZKKO84N7.js" />
@@ -635,6 +643,7 @@ Training (Menu)</title>
       <file href="html5/data/js/5WsF9TrrGyS.js" />
       <file href="html5/data/js/5wUaTWFmo4F.js" />
       <file href="html5/data/js/5xwbSQqH4Hz.js" />
+      <file href="html5/data/js/5ydZ5RHtIdV.js" />
       <file href="html5/data/js/5ylWpfi8TJ1.js" />
       <file href="html5/data/js/5YQ4L2gWE0v.js" />
       <file href="html5/data/js/5ZMM8f6s4xD.js" />
@@ -653,6 +662,7 @@ Training (Menu)</title>
       <file href="html5/data/js/6ALk4KOdhmw.js" />
       <file href="html5/data/js/6aRPVPgl4jC.js" />
       <file href="html5/data/js/6AuQUciVDoq.js" />
+      <file href="html5/data/js/6b8GQoBqbet.js" />
       <file href="html5/data/js/6bAABpcAIy1.js" />
       <file href="html5/data/js/6bNqnsjEzwz.js" />
       <file href="html5/data/js/6cAQeRd8Bay.js" />
@@ -660,6 +670,7 @@ Training (Menu)</title>
       <file href="html5/data/js/6CEigAlpDAf.js" />
       <file href="html5/data/js/6dH2wJZpIEx.js" />
       <file href="html5/data/js/6diGi5Rpj5B.js" />
+      <file href="html5/data/js/6eaNMIgRzuF.js" />
       <file href="html5/data/js/6eBcXZOYeWX.js" />
       <file href="html5/data/js/6EE3x8AKu2T.js" />
       <file href="html5/data/js/6ef0vi7mlgz.js" />
@@ -683,6 +694,7 @@ Training (Menu)</title>
       <file href="html5/data/js/6kNG5sbTJa5.js" />
       <file href="html5/data/js/6kSZD90HmTz.js" />
       <file href="html5/data/js/6lrlP1utc4a.js" />
+      <file href="html5/data/js/6LtlTDz18dF.js" />
       <file href="html5/data/js/6MKF7CFQG0D.js" />
       <file href="html5/data/js/6mrsdRupYKl.js" />
       <file href="html5/data/js/6MVKpvQu4r5.js" />
