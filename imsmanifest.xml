@@ -7,7 +7,7 @@
       <general>
         <title>
           <langstring xml:lang="x-none">Defensive Driving 
-Training</langstring>
+Training (Menu)</langstring>
         </title>
       </general>
       <lifecycle>
@@ -52,14 +52,14 @@ Training</langstring>
     </lom>
   </metadata>
   <organizations default="Defensive_Driving_
-Training_ORG">
+Training_(Menu)_ORG">
     <organization identifier="Defensive_Driving_
-Training_ORG">
+Training_(Menu)_ORG">
       <title>Defensive Driving 
-Training</title>
+Training (Menu)</title>
       <item identifier="Module_1_SCO" isvisible="true" identifierref="__5mxujf4Jkhq_RES">
         <title>Defensive Driving 
-Training</title>
+Training (Menu)</title>
         <adlcp:masteryscore>80</adlcp:masteryscore>
       </item>
     </organization>
